@@ -1,0 +1,1 @@
+# Linkedin and Glassdoor Scraper
